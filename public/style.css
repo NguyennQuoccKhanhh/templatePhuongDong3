@@ -289,6 +289,7 @@ nav ul li:hover::after {
     }
 }
 
+
 .circle-wrapper {
     width: 300px;
     height: 300px;
@@ -311,6 +312,7 @@ nav ul li:hover::after {
     width: 100%;
     height: auto;
     object-fit: cover;
+    
 }
 
 
@@ -347,15 +349,7 @@ nav ul li:hover::after {
     width: 100%; */
     z-index: -1;
 }
-.vongTronImg2{
-    position: absolute;
-    top: 50%;
-    right: -80%;
-    /* transform: translate(-50%, -50%); */
-    /* height: 100%;
-    width: 100%; */
-    /* z-index:-1; */
-}
+
 .vongTronImg3{
     position: absolute;
     top: 70%;
