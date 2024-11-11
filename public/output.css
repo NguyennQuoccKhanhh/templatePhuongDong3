@@ -1383,6 +1383,12 @@ video {
   }
 }
 
+@media (min-width: 1536px) {
+  .\32xl\:block {
+    display: block;
+  }
+}
+
 .\[\&_td\]\:border td {
   border-width: 1px;
 }
